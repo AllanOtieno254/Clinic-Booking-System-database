@@ -89,5 +89,6 @@ Many-to-Many: A doctor can have multiple specializations and vice versa
 One-to-One: Each appointment has exactly one visit record
 
 ## 🖼️ Entity-Relationship Diagram (ERD)
+link to diagram:https://dbdiagram.io/d/clinic-booking-database-schema-68239a515b2fc4582f732d56
 ![clinic booking database schema](https://github.com/user-attachments/assets/afba12bb-a6fd-4d4c-ad69-94285e6c45a9)
 
